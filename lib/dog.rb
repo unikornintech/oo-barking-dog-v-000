@@ -1,3 +1,4 @@
 class Dog 
-  shiloh = Dog.new
+  def name=(dogs_name)
+    
 end

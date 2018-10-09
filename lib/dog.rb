@@ -1,3 +1,4 @@
 class Dog 
-  fido = Dog.new
+  shiloh = Dog.new
+  shiloh.name = "Shiloh"
 end
